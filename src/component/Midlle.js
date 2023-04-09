@@ -407,7 +407,7 @@ function Midlle() {
             {/* right */}
             <div className="space-x-14 flex justify-evenly">
               <div className="my-20">
-                <h1 className="text-xl text-white font-semibold my-6">
+                <h1 className="text-2xl text-white font-semibold my-6">
                   Products
                 </h1>
                 <div className="list-none text-sm text-gray-500 space-y-4">

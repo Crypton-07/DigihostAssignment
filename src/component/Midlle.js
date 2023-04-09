@@ -50,7 +50,7 @@ function Midlle() {
             90+ countries
           </p>
         </div>
-        <div className="grid grid-cols-2 justify-items-center space-y-4 md:flex md:items-center md:flex-grow md:justify-between mt-20 cursor-pointer">
+        <div className="grid grid-cols-2 justify-items-center space-y-4 md:space-y-0 md:flex md:items-center md:flex-grow md:justify-between mt-20 cursor-pointer">
           <div>
             <img src={Capgemini} alt="copmanies" />
           </div>
